@@ -10,8 +10,6 @@ ubuntu-stats-monitor/
 │   │   └── shellcheck.yml         # GitHub Actions для проверки кода
 │   └── pull_request_template.md   # Шаблон для Pull Request
 │
-├── screenshots/
-│   └── .gitkeep                   # Папка для скриншотов
 │
 ├── stats                          # Основной исполняемый скрипт
 ├── install.sh                     # Скрипт установки
@@ -66,5 +64,6 @@ ubuntu-stats-monitor/
 3. Создайте репозиторий на GitHub
 4. Загрузите код
 5. Создайте первый Release
+
 
 
